@@ -1,0 +1,5 @@
+C:/Users/DANNY/STM32CubeIDE/workspace_1.12.0/AVANCE_Tesis040425/Drivers/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	16	static
+../Core/Src/raw_test.c:27:5:main	16	static
+../Core/Src/raw_test.c:121:6:SystemClock_Config	96	static
+../Core/Src/raw_test.c:175:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/raw_test.c:187:6:EXTI15_10_IRQHandler	16	static,ignoring_inline_asm

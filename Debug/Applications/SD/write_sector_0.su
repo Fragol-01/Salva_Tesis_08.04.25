@@ -1,0 +1,3 @@
+../Applications/SD/write_sector_0.c:29:6:configurar_sector_base	544	static
+../Applications/SD/write_sector_0.c:90:6:leer_sector_base	552	static
+../Applications/SD/write_sector_0.c:137:6:borrar_sectores	552	static

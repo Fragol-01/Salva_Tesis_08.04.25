@@ -1,0 +1,11 @@
+core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	2
+audio_recorder.c:29:6:audio_recorder_init	3
+audio_recorder.c:65:6:audio_recorder_start	9
+audio_recorder.c:156:6:audio_recorder_pause	2
+audio_recorder.c:166:6:audio_recorder_resume	2
+audio_recorder.c:177:6:audio_recorder_stop	8
+audio_recorder.c:236:6:audio_recorder_process	9
+audio_recorder.c:289:15:audio_recorder_get_state	1
+audio_recorder.c:294:6:audio_recorder_get_stats	1
+audio_recorder.c:302:6:DMA1_Channel1_IRQHandler	9
+audio_recorder.c:341:14:obtener_fecha_hora	1

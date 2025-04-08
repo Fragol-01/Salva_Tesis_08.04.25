@@ -1,0 +1,3 @@
+write_sector_0.c:29:6:configurar_sector_base	4
+write_sector_0.c:90:6:leer_sector_base	3
+write_sector_0.c:137:6:borrar_sectores	6

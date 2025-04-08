@@ -1,0 +1,5 @@
+C:/Users/DANNY/STM32CubeIDE/workspace_1.12.0/AVANCE_Tesis040425/Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+C:/Users/DANNY/STM32CubeIDE/workspace_1.12.0/AVANCE_Tesis040425/Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+../Peripherals/Src/adc.c:15:6:adc_MIC_config	8	static
+../Peripherals/Src/adc.c:80:6:adc_MIC_DMA_config	16	static
+../Peripherals/Src/adc.c:121:6:adc_ADCVREG_STUP_delay	16	static

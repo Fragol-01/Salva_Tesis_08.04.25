@@ -1,0 +1,5 @@
+core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+core_cm4.h:1809:22:__NVIC_SetPriority	2
+adc.c:15:6:adc_MIC_config	3
+adc.c:80:6:adc_MIC_DMA_config	2
+adc.c:121:6:adc_ADCVREG_STUP_delay	2
